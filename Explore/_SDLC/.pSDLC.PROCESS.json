@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0YvoObFu5swkbbJnQc60uh",
+    "name" : "pSDLC",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "RkZlkZ2sBsoZduD-gt-6158774-2019-11-19T09:26:26.701Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}
